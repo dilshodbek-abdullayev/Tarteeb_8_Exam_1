@@ -6,7 +6,7 @@
 ![ushbu joyda rasm bor](https://w7.pngwing.com/pngs/898/334/png-transparent-computer-arrow-scrolls-computer-keyboard-arrow-keys-arrow-text-sign-pushbutton.png)
 ## rasmdagi istalgan ___klaviaturani___ bosganda "*" belgi usha tomon harakatlanadi
 
-- ## Bu dastura ishlatildi
+- ## Bu dasturda ishlatildi
     -   ConsoleKeyInfo keyInfo => Console daga harakatlarni ushlab olish va munosib javob qaytarish uchun
     - Console.SetCursorPosition() => kursorning joylashuvini boshqarish uchun
     - Console.KeyAvailable => dasturda biror tugma bosilgan yoki bosilmaganini ___true___ __or__ ___false___ shaklida qaytaradi
